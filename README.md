@@ -12,8 +12,8 @@ GetApp makes up 1/3 of Gartner Digital Markets, with headquarters located in cen
 
 ## How we work:
 
-*   We have a **flexible start each morning** — you can come in anytime between 7:30 and 10:30 CEST. We update the team on our progress during our **daily meeting** which begins at 10:30. If you’re working from home that day, don’t worry, you can easily join us via a high-quality video call. 
-*   Twice a week, we **discuss new ideas and topics** that any team member brings to the table, such as, _“We could test using X”_, or _“What about changing this naming convention?”_, or _“This would speed up the deployment process, what do you think?”_. Each proposal opens a new discussion, which eventually leads to changes that **impact and improve our daily work**. All members vote. **Everyone’s opinion matters.**
+*   We have a **flexible start each morning** — you can start anytime between 7:30 and 10:30 CET/CEST. We update the team on our progress during our **daily meeting** which begins at 10:30.
+*   Every week, we **discuss new ideas and topics** that any team member brings to the table. Each proposal opens a new discussion, which eventually leads to changes that **impact and improve our daily work**. **Everyone’s opinion matters.**
 *   We like to keep the number of meetings down to a minimum in order to maximize our time to stay focused. However, we do have biweekly **SCRUM meetings** for **planning** or **retrospective,** as well as bimonthly meetings with the **product team**.
 *   **Pair programming** and **Code reviews** allow us to make sure we are all on the same page and our work meets our quality standards.
 

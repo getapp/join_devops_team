@@ -12,7 +12,7 @@ GetApp makes up 1/3 of Gartner Digital Markets, with headquarters located in cen
 
 ## How we work:
 
-*   We have a **flexible start each morning** — you can start anytime between 7:30 and 10:30 CET/CEST. We update the team on our progress during our **daily meeting** which begins at 10:30.
+*   We have flexible hours, you choose when you start and end your day, we do have a daily meeting to update the team on our progress at 10:30 and try not to have any meetings after 17:00.
 *   Every week, we **discuss new ideas and topics** that any team member brings to the table. Each proposal opens a new discussion, which eventually leads to changes that **impact and improve our daily work**. **Everyone’s opinion matters.**
 *   We like to keep the number of meetings down to a minimum in order to maximize our time to stay focused. However, we do have biweekly **SCRUM meetings** for **planning** or **retrospective,** as well as bimonthly meetings with the **product team**.
 *   **Pair programming** and **Code reviews** allow us to make sure we are all on the same page and our work meets our quality standards.
@@ -35,17 +35,21 @@ At **Gartner Digital Markets**, we go all out when it comes to ensuring your hea
 *   **A chance to make an impact** — your work will contribute directly to our strategy. 
 *   **A modern approach to work** — virtual-first work environment, flexible hours, half-day Fridays, and more.
 
-## What you’ll get:
-
-*   Competitive salary
-*   23 days annual holiday, and additional days off for your birthday, 24th & 31st of December
-*   Private medical and dental care 
-*   Life and disability insurance
-*   Public transport subsidy
-*   Ticket Restaurant card
-*   Childcare vouchers (Ticket Guarderia)
-*   Pension scheme
-
+## What you´ll receive:
+* Competitive compensation.
+* 23 days annual holiday, and additional days off for your birthday, 24th & 31st of December.
+* Private Medical and Dental Care.
+* Life and Disability Insurance.
+* Public Transport Subsidy.
+* Ticket Restaurant Card.
+* Childcare Vouchers (Ticket Guarderia).
+* IncentiFit - annual reimbursement for health-and-wellness-related activities.
+* Pension Scheme.
+* Tuition Reimbursement.
+* Employee Stock Purchase Plan.
+* Employee Assistance Program.
+* Gartner Gives Charity Match.
+* Relocation Assistance - a specialist to help you with all the appointments and paperwork.
 
 ## What is Gartner Digital Markets?
 
